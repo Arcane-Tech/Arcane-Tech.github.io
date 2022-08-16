@@ -8,6 +8,5 @@ intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Arcane Consultancy
-
-Empowering businesses with digital transformation and industry best practices in software development.
+# Software Development & <span class="arc-secondary">Consultancy</span>
+Empowering businesses with digital transformation and guidance in the age of information technology.
