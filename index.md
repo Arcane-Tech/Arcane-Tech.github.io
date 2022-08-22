@@ -1,7 +1,8 @@
 ---
 title: Arcane Consultancy
 layout: home
-description: Providing software development services and consultations
+description: Providing software development services and consulting.
+meta_image: "images/favicon.svg"
 intro_image: "images/home/homepage-graphic.png"
 intro_image_absolute: false
 intro_image_hide_on_mobile: true
