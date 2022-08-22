@@ -1,11 +1,12 @@
 ---
-title: "Ryan Langman"
-date: 2018-11-19T10:47:58+10:00
-image: "images/team/peter-van-eijk-711986-unsplash.jpg"
-jobtitle: "Director"
+firstname: "Ryan"
+lastname: "Langman"
+date: 2022-06-22
+image: "images/team/ryan-langman.jpg"
+jobtitle: "Founder"
 linkedinurl: "https://www.linkedin.com/ryan-langman"
 promoted: true
 weight: 1
 ---
 
-Ryan Langman is a potato, he builds things and farts a lot.
+Ryan Langman is a Software Engineer with a background in various industries such as E-Learning, Agri-tech and Tourism solutions. A self-improvement and technology enthusiast with keen interests in bleeding edge web technologies, virtual reality, artificial intelligence and the metaverse.

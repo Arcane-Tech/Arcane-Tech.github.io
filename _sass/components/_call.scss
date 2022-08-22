@@ -34,21 +34,6 @@
     }
   }
 
-  .call-name {
-    font-size: 1.1rem;
-    font-weight: bold;
-  }
-
-  .call-phone {
-    margin-bottom: 5px;
-  }
-
-  .call-email {
-    a {
-      color: $black;
-    }
-  }
-
   strong {
     font-weight: bold;
   }
@@ -64,5 +49,10 @@
       width: 120px;
       height: 120px;
     }
+  }
+
+  .call-item {
+    display: flex;
+    justify-content: space-between;
   }
 }

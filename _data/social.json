@@ -1,12 +1,7 @@
 [
   {
-    "name": "Github",
-    "link": "",
-    "image": "images/social/github.svg"
-  },
-  {
     "name": "Twitter",
-    "link": "",
+    "link": "https://twitter.com/arcane_consult",
     "image": "images/social/twitter.svg"
   }
 ]

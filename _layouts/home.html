@@ -25,23 +25,18 @@ bodyClass: "page-home"
   <div class="container pt-4 pb-4 pb-md-10">
     <div class="row justify-content-start">
       {% assign limit = site.home.limit_services | default: 6 %}
-      {% for service in site.services limit: limit %}
+      {% for service in site.data.services limit: limit %}
       <div class="col-12 col-md-4 mb-1">
         <div class="service service-summary">
           <div class="service-content">
             <h2 class="service-title">
-              <a href="{{ service.url | relative_url }}">{{ service.title }}</a>
+              {{ service.title }}
             </h2>
-            <p>{{ service.content | markdownify | strip_html | truncate: 100 }}</p>
+            <p>{{ service.description | markdownify }}</p>
           </div>
         </div>
       </div>
       {% endfor %}
-    </div>
-    <div class="row justify-content-center">
-      <div class="col-auto">
-        <a class="button button-primary" href="{{ "services" | relative_url }}">View All Services</a>
-      </div>
     </div>
   </div>
 </div>

@@ -7,6 +7,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Meet The Team
+# Meet The <span class="arc-secondary">Team</span>
 
-Our team of qualified accountants and financial consultants can help your business at any stage of it's growth.
+Our team of experienced engineers help companies solve all stages of the development lifecycle from initial architecture and design, to implementation and delivery.

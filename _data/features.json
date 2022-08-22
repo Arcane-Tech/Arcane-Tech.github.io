@@ -1,10 +1,14 @@
 [
   {
     "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation."
+    "description": "New clients receive an obligation free consultation. Click the schedule button above to get started."
   },
   {
     "title": "Experienced Software Engineers",
     "description": "Our engineers are battle-hardened and experienced in various industries."
+  },
+  {
+    "title": "Frictionless, Professional",
+    "description": "We strive to provide a pleasant partnership to help you reach your goals."
   }
 ]
