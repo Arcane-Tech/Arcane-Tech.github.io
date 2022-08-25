@@ -3,7 +3,7 @@ firstname: "Ryan"
 lastname: "Langman"
 date: 2022-06-22
 image: "images/team/ryan-langman.jpg"
-jobtitle: "Founder"
+jobtitle: "Cofounder"
 linkedinurl: "https://www.linkedin.com/ryan-langman"
 promoted: true
 weight: 1
